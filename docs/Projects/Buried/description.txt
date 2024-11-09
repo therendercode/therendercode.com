@@ -1,6 +1,7 @@
 Buried
 ---
-Project Description
+Sculpted in Zbrush, rendered in Blender Cycles
+Ground: sculpted terrain + scattered rocks + photoscans
 ---
 Blender, Zbrush
 ---
