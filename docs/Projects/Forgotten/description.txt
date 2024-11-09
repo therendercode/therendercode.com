@@ -4,6 +4,6 @@ Project Description
 ---
 3d Coat, Blender, Photoshop
 ---
-/Projects/Forgotten/images/skull02.jpg
+Projects/Forgotten/images/skull02.jpg
 ---
 Forgotten.html
