@@ -1,10 +1,10 @@
-https://yourprofilepic.png
-Your Name
-Your Role @ Company
-Your Location
-https://x.com/ArtOfPilgrim
-http://youtube.com/c/ArtofPilgrim
-https://www.linkedin.com/in/thomasrwbutters/
-https://www.artstation.com/art_of_pilgrim
-https://discord.com/invite/WCnQ5bQa6Q
-youremail@email.com
+/Resources/profile01.jpg
+Andrew Popa
+CG Artist @ therendercode
+Ro
+https://x.com/therendercode
+http://youtube.com/c/therendercode
+https://www.linkedin.com/in/therendercode
+https://www.artstation.com/therendercode
+https://discord.com/invite/therendercode
+therendercode@gmail.com
