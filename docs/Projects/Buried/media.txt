@@ -1,6 +1,6 @@
-images/Buried01.jpg
+images/buried01.jpg
 Descriptions placehoder
 
-images/Buried02.jpg
+images/buried02.jpg
 Description placeholder
 

@@ -1,4 +1,4 @@
-Resources/profile01.jpg
+Resources/profile.png
 Andrew Popa
 CG Artist @ therendercode
 Ro
