@@ -1,0 +1,9 @@
+Dashboard
+---
+Part of the assets were modeled using MoI 3d. I wanted to try CAD modeling and I made this dashboard based on a reference photo I had on my hard drive.
+---
+Blender, MOI 3d
+---
+https://cdna.artstation.com/p/assets/images/images/028/825/932/large/andrew-c-popa-dashboard04-therendercode.jpg?1595619666
+---
+Dashboard.html
