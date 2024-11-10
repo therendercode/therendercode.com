@@ -44,9 +44,9 @@ h1 {
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 18px;
   margin: 0;
-  color: grey;
+  color: rgb(208, 208, 208);
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Safari */
@@ -59,6 +59,12 @@ h2 {
   width: 100%;
   flex: 1;
   overflow-y: auto; /* Ensure main container scrolls if necessary */
+  background-image: url('https://cdnb.artstation.com/p/assets/images/images/024/205/041/large/andrew-c-popa-cinemati-shot-skull-therendercode02.jpg?1581633365'); /* Replace with your image path */
+  background-size: cover;           /* Ensures the image covers the entire width */
+  background-position: 50% 25%;  /* Centers the image within the container */
+  background-repeat: no-repeat;     /* Prevents the image from tiling */
+  background-attachment: fixed;      /* Optional: Fixes the image during scroll for parallax effect */   
+              
 }
 
 .top-container {
@@ -72,6 +78,7 @@ h2 {
   background-position: center;
   background-repeat: no-repeat;
   border-bottom: 1px solid #2e2e2e;
+  
 }
 
 .navigation-buttons {
@@ -131,9 +138,13 @@ h2 {
       padding-top: 5px;/* Add padding for better spacing on mobile */
   }
 
+
   .top-container {
       padding-top: 5px; /* Adjust padding for mobile */
       border-bottom: 1px solid #2e2e2e;
+      padding-top: 5px;/* Add padding for better spacing on mobile */
+      
+
   }
 
   .navigation-buttons {

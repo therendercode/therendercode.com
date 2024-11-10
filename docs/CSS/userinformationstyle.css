@@ -17,6 +17,8 @@
 .user-name-link {
   text-decoration: none;
   color: inherit;
+  font-weight: bold;
+  
 }
 
 .user-name-link:hover {
@@ -25,7 +27,7 @@
 
 .user-info-panel h1 {
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 410;
   margin-bottom: 5px;
   color: #edb049;
 }
@@ -49,7 +51,7 @@
 }
 
 .social-icons a {
-  color: #272727 !important;
+  color: #999999 !important;
   font-size: 24px;
   transition: color 0.3s;
 }

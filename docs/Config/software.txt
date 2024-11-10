@@ -1,6 +1,8 @@
 Blender
 Unity
 Zbrush
-Adobe Photoshop
 Substance 3d Painter
 3d Coat
+Photoshop
+
+
