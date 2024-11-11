@@ -1,0 +1,11 @@
+House Entry
+---
+A recreation of a photo I found online, made with blender 2.8. <br>
+I wanted to explore a different type of architectural scene, one that presented simplicity at a large scale but had a certain complexity seen from a closer angle.
+Textures used in the project from: cc0textures.com
+---
+Blender
+---
+https://cdna.artstation.com/p/assets/images/images/022/121/372/large/andrew-popa-therendercode-archviz02-st.jpg?
+---
+House-Entry.html
