@@ -1,0 +1,6 @@
+https://cdnb.artstation.com/p/assets/images/images/052/869/013/large/andrew-c-popa-muffin01-therendercode.jpg
+
+https://cdnb.artstation.com/p/assets/images/images/052/869/015/large/andrew-c-popa-muffin-viewport01.jpg
+
+https://cdna.artstation.com/p/assets/images/images/052/869/018/large/andrew-c-popa-muffin-material-setup.jpg
+Node setup. I used vertex colors to mask certain areas and add variation to the material.
